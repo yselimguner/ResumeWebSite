@@ -1,0 +1,51 @@
+﻿@using ResumeWebSite.Models.Entity
+@model List<Certificates>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h2>Certificates Page</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Category</th>
+        <th>Date</th>
+        <th>Image</th>
+        <th>Update</th>
+        <th>Delete</th>
+    </tr>
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.Id</td>
+            <td>@x.Title</td>
+            <td>@x.Category</td>
+            <td>@x.Date</td>
+            <td>@x.Image</td>
+            <td>
+                <a class="btn btn-info btn-sm" href="/Certificate/UpdateCertificate/@x.Id">
+                    <i class="fas fa-pencil-alt">
+                    </i>
+                    Edit
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-danger btn-sm" href="/Certificate/CertificateDelete/@x.Id">
+                    <i class="fas fa-trash">
+                    </i>
+                    Delete
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+<br />
+
+<a class="btn btn-primary btn-sm" href="/Certificate/CertificateAdd">
+    <i class="fas fa-folder">
+    </i>
+    Add New Certificate
+</a>

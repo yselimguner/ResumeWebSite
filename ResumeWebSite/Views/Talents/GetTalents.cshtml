@@ -1,0 +1,28 @@
+﻿@model ResumeWebSite.Models.Entity.Talents 
+
+@{
+    ViewBag.Title = "GetTalents";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h3>Talent Update</h3>
+<br />
+<form method="post">
+    @Html.Label("Id")
+    @Html.TextBoxFor(x=>x.Id,new { @class = "form-control" })
+    <br /> 
+    @Html.Label("Name")
+    @Html.TextBoxFor(x=>x.Name, new { @class = "form-control" })
+    <br />
+    @Html.Label("Description")
+    @Html.TextAreaFor(x=>x.Description, new { @class = "form-control" })
+    <br />
+    @Html.Label("TalentImage")
+    @Html.TextBoxFor(x=>x.TalentImage, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-info btn-sm">
+        <i class="fas fa-pencil-alt">
+        </i>
+        Edit
+    </button>
+</form>

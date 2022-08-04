@@ -1,0 +1,180 @@
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\ResumeWebSite.dll.config
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\ResumeWebSite.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\ResumeWebSite.pdb
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\csc.exe
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\csi.exe
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\EntityFramework.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\WebGrease.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\EntityFramework.xml
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\tr\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\obj\Debug\ResumeWebSite.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\obj\Debug\ResumeWebSite.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\obj\Debug\ResumeWebSite.csproj.CopyComplete
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\obj\Debug\ResumeWebSite.dll
+C:\Users\user\Desktop\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\obj\Debug\ResumeWebSite.pdb
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\ResumeWebSite.dll.config
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\ResumeWebSite.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\ResumeWebSite.pdb
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\csc.exe
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\csc.exe.config
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\csc.rsp
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\csi.exe
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\csi.exe.config
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\csi.rsp
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.Managed.Core.targets
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.AppContext.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Collections.Immutable.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Console.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Globalization.Calendars.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.IO.Compression.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.IO.FileSystem.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Net.Http.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Net.Sockets.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Reflection.Metadata.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.ValueTuple.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Xml.XmlDocument.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Xml.XPath.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\vbc.exe
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\vbc.exe.config
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\vbc.rsp
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\VBCSCompiler.exe
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\roslyn\VBCSCompiler.exe.config
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\Antlr3.Runtime.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\EntityFramework.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\EntityFramework.SqlServer.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\Microsoft.Web.Infrastructure.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\Newtonsoft.Json.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.Helpers.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.Mvc.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.Optimization.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.Razor.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.WebPages.Deployment.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.WebPages.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.WebPages.Razor.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\WebGrease.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\EntityFramework.xml
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\EntityFramework.SqlServer.xml
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.Helpers.xml
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.Mvc.xml
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.Optimization.xml
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.Razor.xml
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.WebPages.xml
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.WebPages.Deployment.xml
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\System.Web.WebPages.Razor.xml
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\Newtonsoft.Json.xml
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\Antlr3.Runtime.pdb
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\tr\System.Web.Helpers.resources.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\tr\System.Web.Mvc.resources.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\tr\System.Web.Optimization.resources.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\tr\System.Web.Razor.resources.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\tr\System.Web.WebPages.resources.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\tr\System.Web.WebPages.Deployment.resources.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\bin\tr\System.Web.WebPages.Razor.resources.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\obj\Debug\ResumeWebSite.csproj.AssemblyReference.cache
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\obj\Debug\ResumeWebSite.csproj.CoreCompileInputs.cache
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\obj\Debug\ResumeWebSite.csproj.CopyComplete
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\obj\Debug\ResumeWebSite.dll
+E:\YAVUZ SELİM GÜNER\masaüstü\WORKOUT\MVC Project\ResumeWebSite\ResumeWebSite\ResumeWebSite\obj\Debug\ResumeWebSite.pdb

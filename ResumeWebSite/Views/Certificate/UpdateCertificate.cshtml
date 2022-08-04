@@ -1,0 +1,32 @@
+﻿@model ResumeWebSite.Models.Entity.Certificates
+@{
+    ViewBag.Title = "UpdateCertificate";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<h3>Certificate Update</h3>
+<br />
+<form method="post">
+    @Html.Label("Id")
+    @Html.TextBoxFor(x => x.Id, new { @class = "form-control" })
+    <br />
+    @Html.Label("Title")
+    @Html.TextBoxFor(x => x.Title, new { @class = "form-control" })
+    <br />
+    @Html.Label("Category")
+    @Html.TextBoxFor(x => x.Category, new { @class = "form-control" })
+    <br />
+    @Html.Label("Date")
+    @Html.TextBoxFor(x => x.Date, new { @class = "form-control" })
+    <br />
+    @Html.Label("Image")
+    @Html.TextBoxFor(x => x.Image, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-info btn-sm">
+        <i class="fas fa-pencil-alt">
+        </i>
+        Edit
+    </button>
+</form>
+

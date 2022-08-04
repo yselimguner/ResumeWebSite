@@ -1,0 +1,56 @@
+﻿@using ResumeWebSite.Models.Entity
+@model List<Skill>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br />
+<h2>Skill Page</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Percentage</th>
+        <th>Update</th>
+        <th>Delete</th>
+    </tr>
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.Id</td>
+            <td>@x.Name</td>
+            <td>@x.Percentage</td>
+            <td>
+                
+                <a class="btn btn-info btn-sm" href="/Skill/UpdateSkill/@x.Id">
+                    <i class="fas fa-pencil-alt">
+                    </i>
+                    Edit
+                </a>
+            </td>
+            <td>
+                
+                <a class="btn btn-danger btn-sm" href="/Skill/SkillDelete/@x.Id">
+                    <i class="fas fa-trash">
+                    </i>
+                    Delete
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+<br />
+<a class="btn btn-primary btn-sm" href="/Skill/SkillAdd">
+    <i class="fas fa-folder">
+    </i>
+    Add New Skill
+</a>
+
+
+

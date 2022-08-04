@@ -1,0 +1,29 @@
+﻿
+@model ResumeWebSite.Models.Entity.Education
+@{
+    ViewBag.Title = "GetEdu";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<h3>Education Update</h3>
+<br />
+<form method="post">
+    @Html.Label("Id")
+    @Html.TextBoxFor(x => x.Id, new { @class = "form-control" })
+    <br />
+    @Html.Label("Number")
+    @Html.TextBoxFor(x => x.Number, new { @class = "form-control" })
+    <br />
+    @Html.Label("Description")
+    @Html.TextAreaFor(x => x.Description, new { @class = "form-control" })
+    <br />
+    @Html.Label("Class")
+    @Html.TextBoxFor(x => x.Class, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-info btn-sm">
+        <i class="fas fa-pencil-alt">
+        </i>
+        Edit
+    </button></form>
+

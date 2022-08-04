@@ -1,0 +1,43 @@
+﻿@using ResumeWebSite.Models.Entity
+@model List<Services>
+
+
+
+<section id="service" class="services-mf route">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="title-box text-center">
+                    <h3 class="title-a">
+                        Services
+                    </h3>
+                    
+                    <div class="line-mf"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4">
+
+                    <div class="service-box">
+
+
+
+                        <div class="service-ico">
+                            <span class="ico-circle"><i class="@item.Icon"></i></span>
+                        </div>
+                        <div class="service-content">
+                            <h2 class="s-title">@item.Name</h2>
+                            <p class="s-description text-center">
+                                @item.Description
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+                }
+            </div>
+    </div>
+</section>

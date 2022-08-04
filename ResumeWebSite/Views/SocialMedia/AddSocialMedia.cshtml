@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "AddSocialMedia";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h3>New Social Media Account Add</h3>
+<br />
+<form method="post">
+    <input type="text" name="Brand" class="form-control" placeholder="Write to Social Media's Brand'" />
+    <br />
+    <input type="text" name="link" class="form-control" placeholder="Write to Social Media's Link" />
+    <br />
+    <input type="text" name="icon" class="form-control" placeholder="Write to Social Media's Icon" />
+    <br />
+    <button class="btn btn-info btn-sm">
+        <i class="fas fa-pencil-alt">
+        </i>
+        Edit
+    </button>
+    <br />
+    <h5>Yazım Klavuzu</h5>
+    <h6>Eğer yeni bir sosyal medya hesabı eklemek isterseniz:<br /> icon'un yanına " ion-social-(Ekleyeceğiniz Sosyal Medya Hesabının adı)" nı ekleyiniz. <br /> Böylelikle istdiğiniz ikonda eklenir.</h6>
+
+</form>

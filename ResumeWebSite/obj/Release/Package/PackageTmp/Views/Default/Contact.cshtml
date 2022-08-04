@@ -1,0 +1,80 @@
+﻿
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="contact-mf">
+                <div id="contact" class="box-shadow-full">
+                    <div class="row">
+
+                        <div class="col-md-6">
+                            <div class="title-box-2">
+                                <h5 class="title-left">
+                                    Send Message Us
+                                </h5>
+                            </div>
+                            <div>
+                                <form method="post">
+                                    <div id="sendmessage">Your message has been sent. Thank you!</div>
+                                    <div id="errormessage">Your message hasnt been sent. Please try again.</div>
+                                    <div class="row">
+                                        <div class="col-md-12 mb-3">
+                                            <div class="form-group">
+                                                <input type="text" name="Name" class="form-control" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                                <div class="validation"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12 mb-3">
+                                            <div class="form-group">
+                                                <input type="email" class="form-control" name="Mail"  placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                                                <div class="validation"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12 mb-3">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control" name="Subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                                                <div class="validation"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12 mb-3">
+                                            <div class="form-group">
+                                                <textarea class="form-control" name="Message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                                                <div class="validation"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <button type="submit" class="button button-a button-big button-rouded">Send Message</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="title-box-2 pt-4 pt-md-0">
+                                <h5 class="title-left">
+                                    Get in Touch
+                                </h5>
+                            </div>
+
+                            <div class="more-info">
+                                <p class="lead">
+                                    If you tell me anything I can assure you asap send feedback. Have a nice lifetime...
+                                </p>
+                                
+                                <ul class="list-ico">
+                                        <li><span class="ion-ios-location"></span> Istanbul/Turkey</li>
+                                        <li><span class="ion-ios-telephone"></span>+90 530 087 28 61</li>
+                                        <li><span class="ion-email"></span> yavuzselimguner34@gmail.com </li>
+                                                                    
+                                </ul>
+                                
+                            </div>
+                            @Html.Action("SocialMedia")
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

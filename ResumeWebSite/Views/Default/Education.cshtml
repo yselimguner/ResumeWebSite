@@ -1,0 +1,29 @@
+﻿@using ResumeWebSite.Models.Entity
+@model List<Education>
+
+
+
+
+<div class="section-counter paralax-mf bg-image" style=" background-image: url('../../devfolio-master/img/counters-bg.jpg'); ">
+    <div class="overlay-mf"></div>
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+
+           
+            <div class="col-sm-3 col-lg-3">
+                <div class="counter-box">
+                    <div class="counter-ico">
+                        <span class="ico-circle"><i class="@item.Class"></i></span>
+                    </div>
+                    <div class="counter-num">
+                        <p class="counter">@item.Number</p>
+                        <span class="counter-text">@item.Description</span>
+                    </div>
+                </div>
+            </div>
+            }
+        </div>
+    </div>
+</div>

@@ -1,0 +1,13 @@
+﻿@using ResumeWebSite.Models.Entity
+@model List<SocialMedia>
+
+
+
+<div class="socials">
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li><a href="@item.link"><span class="ico-circle"><i class="@item.icon"></i></span></a></li>
+        }
+    </ul>
+</div>

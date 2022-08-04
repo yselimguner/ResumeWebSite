@@ -1,0 +1,15 @@
+﻿@using ResumeWebSite.Models.Entity
+@model List<Skill>
+
+
+<div class="skill-mf">
+    <p class="title-s">Skill</p>
+    @foreach (var item in Model)
+    {
+    <span>@item.Name</span> <span class="pull-right">@item.Percentage%</span>
+    <div class="progress">
+        <div class="progress-bar" role="progressbar" style="width: @item.Percentage%;" aria-valuenow="@item.Percentage" aria-valuemin="0"
+             aria-valuemax="100"></div>
+    </div>
+    }
+</div>

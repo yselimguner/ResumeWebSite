@@ -1,0 +1,48 @@
+﻿@using ResumeWebSite.Models.Entity
+@model List<Talents>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br />
+<h2>Talents Page</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>TalentImage</th>
+        <th>Update</th>
+        <th>Delete</th>
+    </tr>
+    @foreach (var x in Model)
+    {
+<tr>
+    <td>@x.Id</td>
+    <td>@x.Name</td>
+    <td>@x.Description</td>
+    <td>@x.TalentImage</td>
+    <td>
+        <a class="btn btn-info btn-sm" href="/Talents/GetTalents/@x.Id">
+            <i class="fas fa-pencil-alt">
+            </i>
+            Edit
+        </a>
+    </td>
+    <td>
+        <a class="btn btn-danger btn-sm" href="/Talents/TalentDelete/@x.Id">
+            <i class="fas fa-trash">
+            </i>
+            Delete
+        </a>
+    </td>
+</tr>
+    }
+</table>
+<br />
+<a class="btn btn-primary btn-sm" href="/Talents/TalentAdd">
+    <i class="fas fa-folder">
+    </i>
+    Add New Talent
+</a>
+

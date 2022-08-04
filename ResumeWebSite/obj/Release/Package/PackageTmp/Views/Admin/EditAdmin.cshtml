@@ -1,0 +1,26 @@
+﻿@model ResumeWebSite.Models.Entity.Admin
+@{
+    ViewBag.Title = "EditAdmin";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+<h3>Admin Update</h3>
+<br />
+<form method="post">
+    @Html.Label("Id")
+    @Html.TextBoxFor(x => x.Id, new { @class = "form-control" })
+    <br />
+    @Html.Label("Username")
+    @Html.TextBoxFor(x => x.Username, new { @class = "form-control" })
+    <br />
+    @Html.Label("Password")
+    @Html.TextBoxFor(x => x.Password, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-info btn-sm">
+        <i class="fas fa-pencil-alt">
+        </i>
+        Edit
+    </button>
+</form>

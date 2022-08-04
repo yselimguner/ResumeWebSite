@@ -1,0 +1,54 @@
+﻿@using ResumeWebSite.Models.Entity
+@model List<SocialMedia>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h2>Social Media Page</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Brand</th>
+        <th>Link</th>
+        <th>icon</th>
+        <th>Update</th>
+        <th>Delete</th>
+    </tr>
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.Id</td>
+            <td>@x.Brand</td>
+            <td>@x.link</td>
+            <td>@x.icon</td>
+            <td>
+                <a class="btn btn-info btn-sm" href="/SocialMedia/UpdateSocialMedia/@x.Id">
+                    <i class="fas fa-pencil-alt">
+                    </i>
+                    Edit
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-danger btn-sm" href="/SocialMedia/DeleteSocialMedia/@x.Id">
+                    <i class="fas fa-trash">
+                    </i>
+                    Delete
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+<br />
+
+<a class="btn btn-primary btn-sm" href="/SocialMedia/AddSocialMedia">
+    <i class="fas fa-folder">
+    </i>
+    Add New Social Media Account
+</a>
+
+<h5>Yazım Klavuzu</h5>
+<h6>Eğer yeni bir sosyal medya hesabı eklemek isterseniz:<br /> icon'un yanına " ion-social-(Ekleyeceğiniz Sosyal Medya Hesabının adı)" nı ekleyiniz. <br /> Böylelikle istdiğiniz ikonda eklenir.</h6>
+

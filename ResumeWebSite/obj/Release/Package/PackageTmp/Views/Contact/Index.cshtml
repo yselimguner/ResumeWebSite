@@ -1,0 +1,60 @@
+﻿@using ResumeWebSite.Models.Entity
+@model List<Contact>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<!DOCTYPE html>
+<html>
+<body class="hold-transition sidebar-mini">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-body">
+                                <div class="tab-pane" id="timeline">
+                                    <div class="timeline timeline-inverse">
+                                        @foreach (var x in Model)
+                                        {
+                                        <div class="time-label">
+                                            <span class="bg-danger">
+                                                @(((DateTime)x.Date).ToString("dd-MMM-yyy"))
+                                            </span>
+                                        </div>
+                                        <div>
+                                            <i class="fas fa-comments bg-warning"></i>
+                                            <div class="timeline-item">
+                                                <span class="time"><i class="far fa-mail-bulk"></i> @x.Mail</span>
+                                                <h3 class="timeline-header"><a href="#">@x.Name</a> @x.Subject</h3>
+                                                <div class="timeline-body">
+                                                    @x.Message
+                                                </div>
+                                                
+                                                     <td>
+                                                        <a class="btn btn-danger btn-sm" href="/Contact/DeleteComment/@x.Id">
+                                                             <i class="fas fa-trash">
+                                                             </i>
+                                                                 Delete
+                                                         </a>
+                                                      </td>
+                                               
+                                            </div>
+                                        </div>
+                                        <div class="time-label">
+                                            
+                                        </div>
+                                        }
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "HobbyAdd";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h3>Add New Hobby</h3>
+<br />
+<form method="post">
+    <input type="text" name="Categories" class="form-control" placeholder="Write to Category " />
+    <br />
+    <input type="text" name="Title" class="form-control" placeholder="Write to Title " />
+    <br />
+    <input type="text" name="Images" class="form-control" placeholder="Write to Images Url" />
+    <br />
+    <textarea placeholder="Write to Hobby's Descriptions" name="Description" class="form-control" rows="4"></textarea>
+    <br />
+    <input type="text" name="Date" class="form-control" placeholder="Write to Date" />
+    <br />
+    <button class="btn btn-info btn-sm">
+        <i class="fas fa-pencil-alt">
+        </i>
+        Edit
+    </button>
+
+</form>
